@@ -32,7 +32,7 @@ const Home = () => {
                 alt=""
               />
 
-              <div className="absolute opacity-75 rounded-xl font-medium -z-1 bottom-0 rounded-b-xl bg-slate-500 w-full">
+              <div className="absolute opacity-75 rounded-xl font-medium  bottom-0 rounded-b-xl bg-slate-500 w-full">
                 <img
                   className="w-8 h-8 mx-auto relative bottom-4 rounded-full"
                   src="https://i.ibb.co/k5cXdvR/businessman-character-avatar-isolated-24877-60111.webp"
